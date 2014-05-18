@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "Finished at `date`" > $HOME/Applications/time_finished.txt
